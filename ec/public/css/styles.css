@@ -1,0 +1,104 @@
+body {
+    margin: 0;
+}
+
+p {
+    margin: 0;
+}
+
+hr {
+  margin: 20px 0;
+}
+
+.container {
+  width: 95%;
+  margin: 0 auto;
+}
+
+table {
+  border: 1px solid #000000;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid #000000;
+}
+
+.success {
+  font-size: 12px;
+  color: blue;
+}
+
+.error {
+  font-size: 12px;
+  color: red;
+}
+
+.background-gray {
+  background-color: #cccccc;
+}
+
+header {
+    background-color: #000080;
+    overflow: hidden;
+}
+
+header p {
+    color: #ffffff;
+    font-size: 20px;
+    line-height: 60px;
+    font-weight: bold;
+}
+
+header p a {
+    text-decoration: none;
+}
+
+header p a:link, header p a:visited {
+    color: #ffffff;
+}
+
+header p a:hover {
+    text-decoration: underline;
+}
+
+.header-container {
+    width: 960px;
+    height: 60px;
+    margin: 0 auto;
+}
+
+.left {
+    display: block;
+    float: left;
+}
+
+.right {
+    display: block;
+    float: right;
+}
+
+.full-height {
+    height: 100%;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.home-container {
+  width: 30%;
+  margin: 0 auto;
+}
+
+.home-container p  {
+  padding-left: 20%;
+}
+
+.no-padding {
+  padding: 0;
+}
+
+.margin-top-and-bottom-10px {
+  margin: 10px 0;
+}
